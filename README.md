@@ -14,7 +14,7 @@
 * **Database:** SQL Server
 * **WebSockets:** Native ASP.NET Core WebSockets
 * **Containerization:** Docker
-* **Other important dependencies:** (list other libraries or tools)
+* **Other important dependencies:**
 
 ---
 
